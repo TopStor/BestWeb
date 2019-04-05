@@ -1,1 +1,1 @@
-{"hostname":"dhcp26852","name":"dhcp26852","addr":"10.11.11.243","addrsubnet":"24","rout":"10.0.2.1","dns":"192.168.43.1","mgmtip":"10.11.11.252","mgmtsubnet":"24"}
+{"hostname":"dhcp21016","name":"zfs1","addr":"10.11.11.244","addrsubnet":"24","rout":"10.11.11.253","dns":"10.11.11.253","mgmtip":"0","mgmtsubnet":"0"}
